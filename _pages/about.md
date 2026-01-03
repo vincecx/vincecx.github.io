@@ -8,10 +8,7 @@ profile:
   align: right
   image: chen_portrait.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Mechanical and Aerospace Engineering</p>
-    <p>The Hong Kong University of Science and Technology</p>
-    <p>Clear Water Bay, Hong Kong</p>
+  more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -28,7 +25,11 @@ latest_posts:
 ---
 Chen Xu is a PhD candidate in Mechanical Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Shuhuai Yao](https://rraynachen.wixsite.com/website). 
 
-He holds a MEng and a BEng from [Dalian University of Technology](https://en.dlut.edu.cn/). Chen's research focuses on fluid dynamics and interfacial science, with recent explorations in vaporization-induced fluid dynamics under extreme conditions.
+He holds MEng and BEng degrees from [Dalian University of Technology](https://en.dlut.edu.cn/). Chen's research focuses on fluid dynamics and interfacial science. His research mainly includes:
+
+- Vaporization-induced fluid dynamics under extreme conditions
+- Spreading and wicking on superhydrophilic surfaces
+- Thin-film evaporation
 
 Email: [cxubu@connect.ust.hk](mailto:cxubu@connect.ust.hk). 
 
