@@ -18,7 +18,9 @@ categories: conferences
 
 Presented at: APS Global Physics Summit 2026
 
-Poster ID: MAR-N00-06 | Poster Session II: Fluids Dynamics
+Poster Session II: Fluids Dynamics | Poster ID: MAR-N00-06
+
+[Download example_pdf.pdf](https://github.com/vincecx/vincecx.github.io/raw/main/assets/pdf/example_pdf.pdf)
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -29,7 +31,6 @@ Poster ID: MAR-N00-06 | Poster Session II: Fluids Dynamics
     Video of Experimental Results
 </div>
 
-[Download example_pdf.pdf](https://github.com/vincecx/vincecx.github.io/raw/main/assets/pdf/example_pdf.pdf)
 
 **Abstract**
 <br>
@@ -37,10 +38,10 @@ During recalescence at low pressures, sessile water droplets exhibit rapid self-
 
 **Contact Us**
 <br>
-Mr. Chen Xu \([Homepage](https://vincecx.github.io)/[Google scholar](https://scholar.google.com/citations?user=JV6EFP8AAAAJ&hl=en)\)
+Mr. Chen Xu \([Homepage](https://vincecx.github.io) / [Google Scholar](https://scholar.google.com/citations?user=JV6EFP8AAAAJ&hl=en)\)
 <br>
 Email: [cxubu@connect.ust.hk](mailto:cxubu@connect.ust.hk)
 <br>
-Lab Website: [Prof. Shuhuai Yao's group](https://rraynachen.wixsite.com/website)
+Lab Website: [Prof. Shuhuai Yao's Group](https://rraynachen.wixsite.com/website)
 
 Thank you for your interest! Feel free to reach out for collaborations or questions.
