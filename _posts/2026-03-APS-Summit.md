@@ -29,7 +29,7 @@ Poster ID: MAR-N00-06 | Poster Session II: Fluids Dynamics
     Video of Experimental Results
 </div>
 
-[Download example_pdf.pdf](https://github.com/vincecx/vincecx.github.io/blob/fcd5ad0dea924b78670bc3afa9c0ae60d5d934d9/assets/pdf/example_pdf.pdf)
+[Download example_pdf.pdf](https://github.com/vincecx/vincecx.github.io/raw/main/assets/pdf/example_pdf.pdf)
 
 **Abstract**
 <br>
