@@ -202,9 +202,12 @@ exclude:
   - _pages/news.md
   - _news/
   - _pages/profiles.md
+  - _pages/projects.md
+  - _projects
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/cv.md
+  - _data/repositories.yml
 
 keep_files:
   - CNAME
