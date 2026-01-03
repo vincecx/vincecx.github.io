@@ -36,10 +36,10 @@ During recalescence at low pressures, sessile water droplets exhibit rapid self-
 
 **Contact Us**
 <br>
-Mr. Chen Xu /([Homepage]Mr. Chen Xu /([HomepageMr. Chen Xu /([HomepagMr. Chen Xu /([HomepaMr. Chen Xu /([HomepMr. Chen Xu /([HomeMr. Chen Xu /([Hom(http
+Mr. Chen Xu \([Homepage](https://vincecx.github.io)/[Google scholar](https://scholar.google.com/citations?user=JV6EFP8AAAAJ&hl=en)\)
 <br>
 Email: [cxubu@connect.ust.hk](mailto:cxubu@connect.ust.hk)
 <br>
-Lab Website: [Prof. Shuhuai Yao](https://rraynachen.wixsite.com/website)
+Lab Website: [Prof. Shuhuai Yao's group](https://rraynachen.wixsite.com/website)
 
 Thank you for your interest! Feel free to reach out for collaborations or questions.
