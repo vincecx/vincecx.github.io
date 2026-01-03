@@ -2,8 +2,8 @@
 layout: post
 title: E-Handout for APS Global Physics Summit 2026
 date: 2026-01-04 21:01:00
-description: this is what included videos could look like
-tags:
+description: 
+tags: 
 categories: conferences
 ---
 **Self-propulsion Suppression and Cyclic Levitation of Vaporizing Glycerol-Water Droplets**
