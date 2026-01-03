@@ -1,7 +1,7 @@
 ---
 layout: post
 title: E-Handout for APS Global Physics Summit 2026
-date: 2026-01-04 21:01:00
+date: 2026-01-04 00:01:00
 description: 
 tags: 
 categories: conferences
