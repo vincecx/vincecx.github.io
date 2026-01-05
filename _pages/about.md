@@ -23,13 +23,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Chen Xu is a PhD candidate in Mechanical Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Shuhuai Yao](https://rraynachen.wixsite.com/website). 
+Chen Xu is a PhD candidate in Mechanical Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Shuhuai Yao](https://rraynachen.wixsite.com/website). He holds MEng and BEng degrees from [Dalian University of Technology](https://en.dlut.edu.cn/). 
 
-He holds MEng and BEng degrees from [Dalian University of Technology](https://en.dlut.edu.cn/). Chen's research focuses on fluid dynamics and interfacial science. His research mainly includes:
+Chen's research focuses on fluid dynamics and interfacial science. His research mainly includes:
 
 - Vaporization-induced fluid dynamics under extreme conditions
 - Spreading and wicking on superhydrophilic surfaces
 - Thin-film evaporation
+- Leidenfrost effect
 
 Email: [cxubu@connect.ust.hk](mailto:cxubu@connect.ust.hk). 
 
