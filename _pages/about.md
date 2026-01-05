@@ -25,7 +25,7 @@ latest_posts:
 ---
 Chen Xu is a PhD candidate in Mechanical Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Shuhuai Yao](https://rraynachen.wixsite.com/website). He holds MEng and BEng degrees from [Dalian University of Technology](https://en.dlut.edu.cn/). 
 
-Chen's research focuses on fluid dynamics and interfacial science. His research mainly includes:
+Chen's research focuses on *fluid dynamics*, *phase change*, and *interfacial science*. His research mainly includes:
 
 - Vaporization-induced fluid dynamics under extreme conditions
 - Spreading and wicking on superhydrophilic surfaces
