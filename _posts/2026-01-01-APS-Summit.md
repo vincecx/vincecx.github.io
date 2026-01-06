@@ -27,11 +27,16 @@ Poster ID: MAR-N00-06
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/g-w/water.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/g-w/2.4mol_g-w.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 <div class="caption">
-    Video of Experimental Results
+    left: self-propulsion of a pure water droplet at low pressure (see also https://doi.org/10.1038/s41467-024-45928-2)
+    <br>
+    right: cyclic levitation (instead of self-propulsion) of a glycerol-water droplet (~2.4 mol%) at low pressure
 </div>
 
 
