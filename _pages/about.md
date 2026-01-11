@@ -34,4 +34,4 @@ Chen’s research focuses on *fluid dynamics*, *phase change*, and *interfacial 
 
 Email: [cxubu@connect.ust.hk](mailto:cxubu@connect.ust.hk). 
 
-See my [Google Scholar](https://scholar.google.com/citations?user=JV6EFP8AAAAJ&hl=en) here.
+See my [Publications](https://vincecx.github.io/publications) / [Google Scholar](https://scholar.google.com/citations?user=JV6EFP8AAAAJ&hl=en) here.
