@@ -28,7 +28,7 @@ Chen Xu is a PhD candidate in Mechanical Engineering at The Hong Kong University
 Chen’s research focuses on *fluid dynamics*, *phase change*, and *interfacial science*. His research mainly includes:
 
 - Vaporization-induced fluid dynamics under extreme conditions
-- Spreading and wicking on superhydrophilic surfaces
+- Spreading and wetting on superhydrophilic surfaces
 - Thin-film evaporation
 - Leidenfrost effect
 
