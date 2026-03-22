@@ -35,3 +35,6 @@ Chen's research focuses on *fluid dynamics*, *phase change*, and *interfacial sc
 Email: [cxubu@connect.ust.hk](mailto:cxubu@connect.ust.hk). 
 
 See my [Publications](https://vincecx.github.io/publications) / [Google Scholar](https://scholar.google.com/citations?user=JV6EFP8AAAAJ&hl=en) here.
+
+<p><span class="badge badge-danger">Career</span>
+<span style="color:red">Expected PhD graduation: 2026–2027 — Open to postdoc positions</span>
