@@ -6,7 +6,7 @@ description:
 tags: 
 categories: conferences
 ---
-**Self-propulsion Suppression and Cyclic Levitation of Vaporizing Glycerol-Water Droplets**
+**\[Retracted\] Self-propulsion Suppression and Cyclic Levitation of Vaporizing Glycerol-Water Droplets**
 
 *Chen Xu1, Wei Ma1, Xiao Yan2,3, Shuhuai Yao1*
 
