@@ -198,7 +198,7 @@ exclude:
   - _pages/teaching.md
   - _pages/cv.md
   - _data/repositories.yml
-  - _posts/2026-02-01-ICBCHT-12.md
+  - _posts/2026-01-01-APS-Summit.md
 
 keep_files:
   - CNAME
