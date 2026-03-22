@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-e-handout-for-aps-global-physics-summit-2026",
+        },{id: "post-e-handout-for-icbcht-12",
         
-          title: "E-Handout for APS Global Physics Summit 2026",
+          title: "E-Handout for ICBCHT 12",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/APS-Summit/";
+            window.location.href = "/blog/2026/ICBCHT-12/";
           
         },
       },{
