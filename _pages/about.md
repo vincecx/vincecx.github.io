@@ -36,5 +36,5 @@ Email: [cxubu@connect.ust.hk](mailto:cxubu@connect.ust.hk).
 
 See my [Publications](https://vincecx.github.io/publications) / [Google Scholar](https://scholar.google.com/citations?user=JV6EFP8AAAAJ&hl=en) here.
 
-<p><span class="badge badge-danger">Career Info</span>
-<span style="color:red">Expected PhD graduation: Spring 2027&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Open to postdoc positions</span>
+<p><span class="badge badge-danger">CAREER</span>
+<span style="color:red">Expected PhD graduation: Spring 2027&nbsp;&nbsp;|&nbsp;&nbsp;Open to postdoc positions</span>
